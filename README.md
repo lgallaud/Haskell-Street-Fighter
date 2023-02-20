@@ -1,4 +1,4 @@
-# minijeu
+# Haskell-Street-Fighter
 
 Mini-jeu inspiré de Street Fighter
 
