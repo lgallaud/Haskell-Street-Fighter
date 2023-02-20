@@ -22,4 +22,4 @@ stack run
 
 Pour le lancer...
 
-
+Projet réalisé avec Léa Delannay dans le cadre de l'UE PAF de Sorbonne Université.
